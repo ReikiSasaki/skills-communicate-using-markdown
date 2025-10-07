@@ -20,3 +20,5 @@
 [犬のWikipedia](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%8C)
 
 マークダウン言語のテストです。 by Reiki Sasaki
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
